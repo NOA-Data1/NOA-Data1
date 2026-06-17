@@ -1,7 +1,7 @@
 # Olá, eu sou a Nayane 👋
 
 ### Analista de Dados & Negócios | MSc em Data Analytics  
-**Engenharia + Qualidade + Analytics Operacional**  
+**Engenharia / Qualidade / Analytics Operacional**  
 Python • SQL • Power BI
 
 ---
@@ -10,7 +10,7 @@ Python • SQL • Power BI
 
 🎓 Mestre em Data Analytics com formação em Engenharia Química e experiência em Qualidade, Operações e Análise de Dados.
 
-📊 Apaixonada por análise de dados, melhoria de processos e tomada de decisão orientada por dados.
+📊 Experiência em análise de dados, melhoria de processos e tomada de decisão orientada por dados.
 
 ⚙️ Experiência com KPIs, relatórios, validação de dados, melhoria contínua e análise operacional.
 
