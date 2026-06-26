@@ -1,4 +1,4 @@
-# Olá, eu sou a Nayane 👋
+# Olá, eu sou a Nayane!
 
 ### Analista de Dados & Negócios | MSc em Data Analytics  
 **Engenharia / Qualidade / Analytics Operacional**  
