@@ -27,7 +27,7 @@ Python • SQL • Power BI
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 📌 **Previsão de Séries Temporais**  
 Projetos de previsão de demanda e análise temporal utilizando Machine Learning e Redes Neurais.
@@ -45,5 +45,5 @@ Projeto voltado à análise de qualidade e eficiência operacional inspirado no 
 
 ## 📫 Vamos nos conectar?
 
-- 💼 LinkedIn: www.linkedin.com/in/nayane-a-aa170468  
+- 💼 LinkedIn: www.linkedin.com/in/nayane-oaraujo  
 - 📂 Portfólio: github.com/NOA-Data1
